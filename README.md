@@ -16,7 +16,7 @@ The best prompt is the prompt that clearly set the context (i.e. the name of one
 Using zkcloudworker-lib from Knowledge, list the methods of the Cloud class and describe briefly each method
 ```
 
-### zkCloudWorker (assistant)[https://chatgpt.com/g/g-agQcBF0ej-zkcloudworker] answer
+### zkCloudWorker AI assistant answer
 
 Here are the methods of the `Cloud` class from the `zkcloudworker-lib` and a brief description of each:
 
