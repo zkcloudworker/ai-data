@@ -75,4 +75,4 @@ Here are the methods of the `Cloud` class from the `zkcloudworker-lib` and a bri
    - **Description:** Retrieves all transactions from the cloud.
    - **Returns:** A promise that resolves with an array of cloud transactions.
 
-These methods and properties of the `Cloud` class provide comprehensive functionality for managing and processing tasks and transactions in the zkCloudWorker environment【16†source】 .
+These methods and properties of the `Cloud` class provide comprehensive functionality for managing and processing tasks and transactions in the zkCloudWorker environment.
