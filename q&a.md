@@ -18,7 +18,7 @@
 
 ### Q3: How can developers deploy a zkApp using zkCloudWorker?
 
-**A1:** Developers can deploy a zkApp using zkCloudWorker by following these steps:
+**A3:** Developers can deploy a zkApp using zkCloudWorker by following these steps:
 
 1. **Clone the Repository:**
 
@@ -43,7 +43,7 @@
 
 ### Q4: How can developers run tests for their zkApp on different networks using zkCloudWorker?
 
-**A2:** Developers can run tests for their zkApp on different networks using zkCloudWorker by executing the following commands:
+**A4:** Developers can run tests for their zkApp on different networks using zkCloudWorker by executing the following commands:
 
 1. **Run Local Tests:**
 
@@ -77,7 +77,7 @@ Here are five Q&A about zkCloudWorker using the provided markdown files:
 
 ### Q5: What are the main features of zkCloudWorker that enhance the development of MINA zkApps?
 
-**A1:** zkCloudWorker provides a comprehensive set of features designed to streamline the development and deployment of MINA zkApps, including:
+**A5:** zkCloudWorker provides a comprehensive set of features designed to streamline the development and deployment of MINA zkApps, including:
 
 1. **Compiling Contracts in the Cloud:** Allows for efficient contract compilation without local resource constraints.
 2. **Transaction Proof Calculation:** Supports the calculation of transaction proofs using `tx.prove()`.
@@ -95,7 +95,7 @@ Here are five Q&A about zkCloudWorker using the provided markdown files:
 
 ### Q6: How do you install and update the zkCloudWorker CLI?
 
-**A2:** To install and update the zkCloudWorker CLI, follow these steps:
+**A6:** To install and update the zkCloudWorker CLI, follow these steps:
 
 **Installation:**
 
@@ -125,7 +125,7 @@ These commands ensure that the CLI is correctly installed and kept up to date .
 
 ### Q7: How can developers deploy a repository to zkCloudWorker's cloud?
 
-**A3:** Developers can deploy a repository to zkCloudWorker's cloud using the following steps:
+**A7:** Developers can deploy a repository to zkCloudWorker's cloud using the following steps:
 
 1. **Clone the Repository:**
 
@@ -156,7 +156,7 @@ This process creates a zip file of the project, uploads it to zkCloudWorker's cl
 
 ### Q8: What steps are involved in running tests for a zkApp using zkCloudWorker?
 
-**A4:** To run tests for a zkApp using zkCloudWorker, developers should follow these steps:
+**A8:** To run tests for a zkApp using zkCloudWorker, developers should follow these steps:
 
 1. **Run Local Tests:**
 
@@ -188,7 +188,7 @@ These commands ensure comprehensive testing across different environments before
 
 ### Q9: What privacy measures does zkCloudWorker implement to secure data?
 
-**A5:** zkCloudWorker employs several privacy measures to ensure data security, including:
+**A9:** zkCloudWorker employs several privacy measures to ensure data security, including:
 
 1. **Robust Isolation:** Each process runs in a secure, isolated environment to prevent unauthorized access.
 2. **Data Encryption:** All data is encrypted during transmission and storage.
